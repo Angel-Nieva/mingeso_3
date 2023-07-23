@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: master
+          default-label: main
           uri: https://github.com/Angel-Nieva/mingeso_3.git
           search-paths: config-data
   application:
