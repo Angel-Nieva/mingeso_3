@@ -1,4 +1,4 @@
-package com.mingeso.preguntas.entities;
+package com.mingeso.preguntaservice.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

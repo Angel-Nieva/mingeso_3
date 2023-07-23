@@ -1,7 +1,7 @@
-package com.mingeso.preguntas.services;
+package com.mingeso.preguntaservice.services;
 
-import com.mingeso.preguntas.repositories.PreguntaRepository;
-import com.mingeso.preguntas.entities.PreguntaEntity;
+import com.mingeso.preguntaservice.repositories.PreguntaRepository;
+import com.mingeso.preguntaservice.entities.PreguntaEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
